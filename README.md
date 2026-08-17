@@ -1,6 +1,6 @@
 # Task Tracker CLI
 
-A lightweight command-line interface (CLI) application to manage tasks, track progress, and organize daily workflows. The application persists state locally in JSON format without external dependencies.
+[Task Tracker](https://github.com/Christian-F-Badillo/tasker-cli) is a lightweight command-line interface (CLI) application to manage tasks, track progress, and organize daily workflows. The application persists state locally in JSON format without external dependencies.
 
 ## Features
 
