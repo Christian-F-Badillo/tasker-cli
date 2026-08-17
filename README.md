@@ -202,3 +202,7 @@ task-cli list --help
 ## License
 
 This project is open source and available under the MIT License.
+
+## Project url
+
+* [https://github.com/Christian-F-Badillo/tasker-cli](https://github.com/Christian-F-Badillo/tasker-cli)
