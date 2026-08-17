@@ -14,15 +14,15 @@ A lightweight command-line interface (CLI) application to manage tasks, track pr
 
 ## Requirements
 
-- Python 3.11 or higher.
+* Python 3.11 or higher.
 
-- (Optional) uv package manager for fast environment setup and dependency management.
+* (Optional) uv package manager for fast environment setup and dependency management.
 
 ## Installation & Setup
 
 ### Option 1: Using uv (Recommended)
 
-- Clone or download the repository:
+* Clone or download the repository:
 
 ```bash
 git clone https://github.com/Christian-F-Badillo/tasker-cli.git
