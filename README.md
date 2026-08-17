@@ -160,7 +160,7 @@ task-cli mark-done 1
 task-cli mark-done 1 2 3
 ```
 
-### . Delete Tasks
+### 5. Delete Tasks
 
 Remove one or multiple tasks by ID.
 
