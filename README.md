@@ -203,6 +203,6 @@ task-cli list --help
 
 This project is open source and available under the MIT License.
 
-## Project url
+## Project Idea Disclaimer
 
-* [https://github.com/Christian-F-Badillo/tasker-cli](https://github.com/Christian-F-Badillo/tasker-cli)
+* The project is based on the [road.sh](https://roadmap.sh) project:[https://roadmap.sh/projects/task-tracker](https://roadmap.sh/projects/task-tracker)
